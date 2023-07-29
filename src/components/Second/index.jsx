@@ -21,7 +21,7 @@ export const Second =()=>{
             <h4>Lorem ipsum dolor sit, amet consectetur adipisicing elit,<br />Beatae accusamus dicta id facere esse enim veniam.</h4>
           </div>
           <div className="">
-            <img src="" alt="" />
+            <img src="" alt="headphones" className="" />
 
           </div>
  

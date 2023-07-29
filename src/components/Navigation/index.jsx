@@ -3,7 +3,7 @@
 
 export const Navigation =()=>{
     return (
-        <nav className="flex items-center bg-white">
+        <nav className="flex items-center bg-white h-16">
         <div className="flex items-center mr-auto ml-[30rem]">
             <img src="path/to/your/image.jpg" alt="Logo" className="w-10 h-10" />
             <h3 className="ml-2 text-xl">Esportas</h3>
