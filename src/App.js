@@ -1,4 +1,4 @@
-import { Navigation,First } from "./components";
+import { Navigation,First,Second } from "./components";
 
 
 function App() {
@@ -6,6 +6,7 @@ function App() {
    <div>
     <Navigation />
     <First />
+    <Second />
    </div>
   );
 }
