@@ -1,4 +1,4 @@
-import { Navigation,First,Second,Third } from "./components";
+import { Navigation,First,Second,Third,Fourth, Fifth,Colors,Feedback,Headphones,Sponsors,Newsletter } from "./components";
 
 
 function App() {
@@ -8,6 +8,14 @@ function App() {
     <First />
     <Second />
     <Third />
+    <Fourth />
+    <Fifth />
+    <Colors />
+    <Feedback />
+    <Headphones />
+    <Sponsors />
+    <Newsletter />
+    
    </div>
   );
 }

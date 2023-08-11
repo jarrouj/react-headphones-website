@@ -8,7 +8,7 @@ export const Third = () =>{
             <div className="p-20 px-64">
                 <h1 className="text-white text-[2rem] font-bold">The science of today <br />is the technology<br/> of tomorrow</h1>
                 <h5 className="text-white text-xs">Lorem ipsum dolor sit amet consectetur adipisicing elit. Pariatur perferendis placeat est quis culpa minus sapiente<br /> magnam quas assumenda cupiditate atque recusandae itaque illum porro,<br /> asperiores voluptates earum. Eos, quisquam!</h5>
-            <button className="border rounded-full w-32 bg-white text-red-700 text-xs font-bold h-7 mt-9">LEARN</button>
+            <button className="border rounded-full w-32 bg-white text-red-700 text-xs font-bold h-7 mt-9">LEARN MORE</button>
             </div>
         </div>
         <div className="bg-black h-[27rem] w-[59rem] ml-[60rem] mt-[-27rem] p-10 ]" >
